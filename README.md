@@ -81,9 +81,9 @@ graph TD
 
 ## Assets
 
-![Workflow Diagram](D:\Kaggle X Google 5 day course\adk-workspace\legal-contract-reviewer\assets\architecture_diagram.png)
+![Workflow Diagram](assets/architecture_diagram.png)
 
-![Cover Banner](legal-contract-reviewer/assets/cover_page_banner.pngassets/cover_page_banner.png)
+![Cover Banner](assets/cover_page_banner.png)
 
 ## Demo Script
 
