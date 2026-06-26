@@ -74,6 +74,16 @@ graph TD
 2. **Missing Agents:** Ensure you are running commands from the `legal-contract-reviewer` directory.
 3. **Changes Not Updating (Windows):** Fully stop the server (Ctrl+C) and restart after code edits.
 
+## Assets
+
+![Workflow Diagram](assets/architecture_diagram.png)
+
+![Cover Banner](assets/cover_page_banner.png)
+
+## Demo Script
+
+A step-by-step presentation script for demoing this project is available in [DEMO_SCRIPT.txt](DEMO_SCRIPT.txt).
+
 ## Push to GitHub
 
 1. Create a new repo at [https://github.com/new](https://github.com/new)
